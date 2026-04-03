@@ -1,8 +1,7 @@
-## 
-
 <div align="center">
   <a href="https://github.com/amzampier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amzampier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amzampier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,9 +14,13 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/amzampier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:amzampier@msn.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-marcos-zampier-3178b55a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/amzampier" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:amzampier@msn.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-marcos-zampier-3178b55a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
-
-  
